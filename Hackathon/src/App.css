@@ -1,0 +1,11 @@
+.app{
+  margin: 0;
+  width: 100vw;
+  height: 500px;
+  background:linear-gradient(#7A7FBA, #11C37C);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  /* justify-content: center; */
+}
+
